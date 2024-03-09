@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0f453d603816fcd8521303dee8ac42b35537b5b9",
+    "author": "Lincoln Mullen <lincoln@lincolnmullen.com>",
+    "time": "2020-05-15 14:42:19",
+    "files": 1,
+    "merge": false,
+    "message": "Fix URL in README too.\n"
+  },
+  "repo": "https://github.com/ropensci/textreuse",
+  "pkg": "textreuse"
+}
