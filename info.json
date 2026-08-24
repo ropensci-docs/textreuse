@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "ebdda6bbd503bfa5a96d008a6c037cd0baa1e507",
+    "author": "Yaoxiang Li <liyaoxiang@outlook.com>",
+    "time": "2026-07-25T01:12:17Z",
+    "files": 4,
+    "merge": false,
+    "message": "Simplify and speed up LSH processing\n"
+  },
+  "repo": "https://github.com/ropensci/textreuse",
+  "pkg": "textreuse",
+  "time": "2026-08-24T02:54:59Z"
+}
